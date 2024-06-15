@@ -65,6 +65,16 @@ displayProgress: function() {
     var currentQuestionNumber= quiz.currentQuestionIndex + 1;
     this.populateIdwithHTML ("progress", "Question"+ currentQuestionNumber + "of" + quiz.questions.lengh);
 }
+var questions = [
+    new Question ("What is meant by one light year?"), ["The distance light travels in one year", "Distance that light travels in one day", "The distance that travels in one min"], "The distance light travels in one year"),
+    new Question ("Which is the closest planet to the sun?"), ["Mercure", "Venus", "Mars"],"Mercure"),
+    new Question ("How many minutes does the sun light takes to come to earth?"), ["Just over eight minutes", "Just over four minutes","Just over nine minutes"], "Just over eight minutes"),
+    new Question ("Which is the spacecraft that NASA launched in 2006, to study Pluto?), ["Voyager", "New Horizons", "Messenger"], "New Horizons"),
+    new Question ("Which was the first living creature to be sent to space?"), ["Laika the dog", "Yuri Gagarin", "A monkey"], "Laika the dog"),
 
+];
+var quiz= new Quiz(questions);
+QuizUI.displayNext();
+    
 
 
