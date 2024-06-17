@@ -30,7 +30,7 @@ body {
     margin: 10px 0;
     padding: 10px;
     font-size: 16px;
-    background-color: #5880b8;
+    background-color: #4e81ca;
     color: white;
     border: none;
     border-radius: 5px;
@@ -48,45 +48,3 @@ footer {
 h1, h2, h3 {
     color: #333;
 }
-HTML
-html
-Copy code
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Space Quiz</title>
-    <link rel="stylesheet" href="assets/css/style.css">
-</head>
-<body>
-    <div class="container">
-        <div id="quiz" class="position">
-            <h1> Space Quiz</h1>
-            <h2 id="question" class="headline"></h2>
-            <h3 id="score"></h3>
-
-            <p id="choice0"></p>
-            <button id="guess0" class="btn-default">Select Answer</button>
-
-            <p id="choice1"></p>
-            <button id="guess1" class="btn-default">Select Answer</button>
-
-            <p id="choice2"></p>
-            <button id="guess2" class="btn-default">Select Answer</button>
-
-            <p id="choice3"></p>
-            <button id="guess3" class="btn-default">Select Answer</button>
-
-            <p id="choice4"></p>
-            <button id="guess4" class="btn-default">Select Answer</button>
-
-            <footer>
-                <p id="progress">Question X of Y</p>
-            </footer>
-        </div>
-    </div>
-    
-    <script src="assets/js/script.js"></script>
-</body>
-</html>
