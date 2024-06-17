@@ -78,7 +78,7 @@ function showScores() {
 
 // Create questions
 let questions = [
-    new Question("What is meant by one light year?", ["The distance light travels in one year", "Distance that light travels in one day", "The distance light travels in one month","The distance light travels in one min", "The distance light travels in one second"], "The distance light travels in one year"),
+    new Question("What is meant by one light year?", ["Distance light travels in one year", "Distance that light travels in one day", "Distance light travels in one month","Distance light travels in one min", "Distance light travels in one second"], "Distance light travels in one year"),
     new Question("Which is the closest planet to the sun?", ["Earth", "Venus", "Mercury", "Mars", "Jupiter"], "Mercury"),
     new Question("How many minutes does the sun light takes to come to earth?", ["Just over one hour","Just over eight minutes", "Just over four minutes","Just over nine minutes","Just over one second"],"Just over eight minutes"),
     new Question("Which is the spacecraft NASA launched in 2006 to study Pluto?", ["Voyager", "Jason", "Messenger", "Ulysses", "New Horizons"], "New Horizons"),
