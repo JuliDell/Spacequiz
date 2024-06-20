@@ -24,6 +24,22 @@ body {
     margin-top: 10px;
 }
 
+.format {
+    margin: 20px;
+    color: rgb(240, 240, 246);
+    font-size: 300%;
+    display:flex;
+    justify-content: center;
+
+}
+.format2 {
+    margin: 20px;
+    color: rgb(240, 240, 246);
+    font-size: 200%;
+    display:flex;
+    justify-content: center;
+
+}
 .btn-default {
     display: block;
     width: 100%;
