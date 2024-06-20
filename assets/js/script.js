@@ -1,3 +1,4 @@
+/* jshint esversion: 11 */
 // assets/js/script.js
 
 // Question constructor function
