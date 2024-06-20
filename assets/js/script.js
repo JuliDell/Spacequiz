@@ -83,7 +83,12 @@ const questions = [
     new Question("Which is the closest planet to the sun?", ["Earth", "Venus", "Mercury", "Mars", "Jupiter"], "Mercury"),
     new Question("How many minutes does the sun light takes to come to earth?", ["Just over one hour","Just over eight minutes", "Just over four minutes","Just over nine minutes","Just over one second"],"Just over eight minutes"),
     new Question("Which is the spacecraft NASA launched in 2006 to study Pluto?", ["Voyager", "Jason", "Messenger", "Ulysses", "New Horizons"], "New Horizons"),
-    new Question("Which was the first living creature to be sent to space?", ["Michael Barrat", "Yuri Gagarin", "A monkey","Laika the dog", "A cat" ], "Laika the dog"),
+    new Question("What is the outer layer of the atmosphere?", ["Atmosphere", "Thermosphere", "Mesosphere","Exosphere", "Stratosphere" ], "Exosphere"),
+    new Question("Which is the world’s largest light detecting telescope?", ["Chantra X-ray telescope", "Hubble telescope", "The twin Keck telescopes","Keck Observatory", "James Webb Space" ], "The twin Keck telescopes"),
+    new Question("The nearest star to earth, after the sun, is?", ["Proxima Centauri", "Barnard’s star", "Gliese 581","Luyten's Star", "Ross 154" ], "Proxima Centauri"),
+    new Question("Who was the first person in space?", ["Neil Armstrong", "Yuri Gagarin", "Kalpana Chawla","Elon Musk", "Mike Collins" ], "Neil Armstrong"),
+    new Question("The first man landed on moon in?", ["1950", "1969", "1979","1985", "1990" ], "1969"),
+    new Question("Which planet is nearest in size to earth?", ["Earth", "Jupiter", "Mercury", "Mars", "Venus" ], "Venus"),
 ];
 
 
