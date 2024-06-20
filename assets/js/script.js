@@ -97,3 +97,7 @@ let quiz = new Quiz(questions);
 
 // Display quiz
 populate();
+
+function goAnswer() {
+    window.location.href = 'answer.html'; // Adjust this URL to point to your home page
+}

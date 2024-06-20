@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-    background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white background for readability */
+    background-color: rgba(255, 255, 255, 0.8); 
     padding: 20px;
     border-radius: 10px;
     max-width: 600px;
@@ -54,6 +54,14 @@ body {
 }
 
 .btn-default:hover {
+    background-color: #16327a;
+}
+
+.btn-answer {
+    cursor: pointer;
+}
+
+.btn-answer:hover {
     background-color: #16327a;
 }
 
