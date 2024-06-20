@@ -99,5 +99,8 @@ let quiz = new Quiz(questions);
 populate();
 
 function goAnswer() {
-    window.location.href = 'answer.html'; // Adjust this URL to point to your home page
+    window.location.href = 'answer.html'; 
+}
+function goHome() {
+    window.location.href = 'index.html'; 
 }
