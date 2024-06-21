@@ -81,6 +81,9 @@ body {
 
 footer {
     margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 h1, h2, h3 {
@@ -126,7 +129,7 @@ table tbody tr:hover {
 .btn-home {
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #0d2392;
+    background-color: #9ca9eb;
     color: white;
     border: none;
     cursor: pointer;
