@@ -75,6 +75,8 @@ function showScores() {
         <h1>Result</h1>
         <h2 id='score'> Your score: ${quiz.score}</h2>
     `;
+    document.getElementById("answerButton").classList.remove("hidden");
+    document.getElementById("retakeButton").classList.remove("hidden");
 }
 
 // Create questions
@@ -91,7 +93,6 @@ const questions = [
     new Question("Which planet is nearest in size to earth?", ["Earth", "Jupiter", "Mercury", "Mars", "Venus" ], "Venus"),
 ];
 
-
 // Initialize quiz
 let quiz = new Quiz(questions);
 
@@ -101,6 +102,11 @@ populate();
 function goAnswer() {
     window.location.href = 'answer.html'; 
 }
+
+function retakeQuiz() {
+    window.location.href = 'index.html'; 
+}
+
 function goHome() {
     window.location.href = 'index.html'; 
 }
