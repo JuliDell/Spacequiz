@@ -150,15 +150,17 @@ table tbody tr:hover {
 .btn-home:hover {
     background-color: #16327a;
 }
-/* Media query: mobiles (410px and up) */
+/* Media query: mobiles (340px and up) */
 @media screen and (min-width: 340px) {
     body {
-    font-size: 80%; 
+    font-size: 60%; 
     }
     
     .container {
-    margin-top: 50px;
+    margin-top: 80px;
+    margin-bottom: 20px;
     width: 60%;
+    max-height: 60%;    
     display: flex;
     align-items: center;
     justify-content: center;
@@ -172,10 +174,13 @@ table tbody tr:hover {
     }
   
     @media (min-width: 700px) {
+        body {
+            font-size: 90%; 
+            }
         .container {
-        padding: 10px 10px 10px 10px;
-        margin-top: 60px;
-        margin-bottom: 5px;
+        margin-top: 80px;
+        margin-bottom: 10px;
+        max-height: 100%;    
         }
         
         .btn-default {
