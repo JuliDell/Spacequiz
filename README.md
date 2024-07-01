@@ -50,70 +50,36 @@ The website contains different shades of blue:
 
 1. Favicon
 
-The favicon was generated using the following font:
+The favicon was generated using the image favicon generator:
 
-- Font Title: Irish Grover
-- Font Author: Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.
-- Font Source: https://fonts.gstatic.com/s/irishgrover/v23/buExpoi6YtLz2QW7LA4flVgf-P5Oaiw4cw.ttf
-- Font License: Apache License, version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html))
+- Favicon Generator: (https://favicon.io/favicon-converter/)
+- Image Source: (https://www.pexels.com/photo/illustration-of-space-shuttle-3697825/
 
-![Favicon](documentation/favicon-32x32.png)
+![Favicon](documentation/favicon.png)
 
-2. Navigation Bar
+2. Quiz Page
 
-Featured at the top of the page is full responsive and includes a Home page, an About page and a Sign Up page.
+This section allows the user to easily navigate and answer the quiz.
 
-This section allows the user to easily navigate on the site and on all different devices.
-
-The navigation use a green background, that is the base color of the site.
+The navigation use a space background, to make an immersive experience.
 
 ![Nav Bar mMbiles](documentation/234435.png)
 
 ![Nav Bar Desktop](documentation/234608.png)
 
-3. Footer 
-
-The footer section shows the Green Dublin social medias: Facebook, Youtube and Instagram. It makes easier the interation between Green Dublin team and visitors and volunteers.
-
-![Footer](documentation/220849.png)
-
-4. Home page
+2. Score page
 
 The home page includes a picture with a cover text inviting the user to become a volunteer and lists the actions Green Dublin is working on at the moment.
 
 ![Home page picture](documentation/80815.png)
 
-5. About page
-
-The about page provides visitors with information about the organization behind the site. It has some pictures of members -registered volunteers- in real life acting in the campaigns. It hopes to establish credibility and build trust with the user.
-
-![About page](documentation/80816.png)
-
-6. Sign up page
-
-This page allows the user to become a volunteer. The user will need:
-- Inform the first and last name
-- Inform an email
-- Select the option to receive updates from Green Dublin by email
-- Click on the button "Become a volunteer" to submit
-
-![Sign up page](documentation/80818.png)
-
-7. Petition page
-
-From the button "Join the petition" located on the home page, the user is redirected to the petition page.
-
-The petition page has a form to be filled by the user to virtualy sign the petition.
-
-![Petition page](documentation/80817.png)
-
-8. Response page
+3. Answer page
 
 Everytime the user signs up to become a volunter and joins a petition, he/she will be redirect to the response page and a thank you message will be showed.
 
 ![Response page](documentation/80B14.png)
 
-<h2><font color="green">Manual Testing</font></h2>
+<h2><font color="blue">Manual Testing</font></h2>
 
 The manual testing was done on the deployed project at Github.
 
@@ -122,7 +88,7 @@ The manual testing was done on the deployed project at Github.
 - The forms will not be submitted if the fields have not been filled correctly
 - The pages are responsive
 
-<h2><font color="green">Validator Testing</font></h2>
+<h2><font color="blue">Validator Testing</font></h2>
 
 HTML validation: no errors were found  on the official W3C validator
 
@@ -136,7 +102,7 @@ Acessibility: the site is friendly, easy to read and acessible- confirmed by run
 
 ![Lighthouse](documentation/231605.png)
 
-<h2><font color="green">Bugs</font></h2>
+<h2><font color="blue">Bugs</font></h2>
 
 1. Solved bugs
 
@@ -149,7 +115,7 @@ In the documentation folder, the images name was written with spaces, capital le
 No aditional bugs were detected.
 
 
-<h2><font color="green">Deployment</font></h2>
+<h2><font color="blue">Deployment</font></h2>
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 
@@ -159,7 +125,7 @@ From the source section drop-down menu, select the Main Branch, then click "Save
 
 The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-<h2><font color="green">Credits</font></h2>
+<h2><font color="blue">Credits</font></h2>
 <h3> Content</h3>
 
 - Information about the climate action plan 2024-2029- Climate 
@@ -185,43 +151,9 @@ The images were taken from Pexels and Istockphoto websites.
 
 [About page img1](https://www.pexels.com/photo/woman-in-blue-denim-jacket-holding-a-plastic-bottle-and-black-plastic-bag-5029852/)
 
-[About page img2](https://www.pexels.com/photo/a-volunteer-cleaning-and-elderly-man-s-yard-6647049/)
-
-[About page img3](https://www.pexels.com/photo/person-in-white-crew-neck-t-shirt-wearing-gloves-while-holding-green-plant-7655815/)
-
-[About page img4](https://www.pexels.com/photo/volunteer-man-planting-tree-in-the-ground-7656745/)
-
-[About page img5](https://www.pexels.com/photo/a-woman-sitting-on-the-floor-while-holding-a-potted-plant-8543113/)
-
-[About page img6](https://www.pexels.com/photo/person-in-gloves-holding-yellow-plastic-bag-with-recyclable-materials-8543601/)
-
-[About page img7](https://www.pexels.com/photo/a-boy-in-white-shirt-holding-pink-scrunch-net-9037212/)
-
-[About page img8](https://www.pexels.com/photo/man-in-green-crew-neck-t-shirt-holding-white-textile-9324313/)
-
-[About page img9](https://www.pexels.com/photo/man-collecting-up-plastic-bottle-8543606/)
-
-
-[Sign up img](https://www.istockphoto.com/photo/sustainability-and-green-business-with-icons-on-crystal-balls-renewable-energy-gm1427517190-471422908?utm_campaign=srp_photos_noresults&utm_content=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fdecarbonization%2F&utm_medium=affiliate&utm_source=pexels&utm_term=decarbonization)
-
-[Pettition page img](https://www.pexels.com/photo/plastic-bottles-3735215/)
-
-<h2><font color="green">Technologies Used</font></h2>
+<h2><font color="blue">Technologies Used</font></h2>
 
 - HTML
 - CSS
-- Java Script: only on the footer
+- Java Script
 
-<h2><font color="green">Acknowledgments</font></h2>
-
-I would like to thank everyone listed below for helping me to complete this project:
-
-[Code Institute](https://codeinstitute.net/ie/)
-
-My project mentor: Juliia_Konn
-[Git Hub](https://github.com/IuliiaKonovalova)
-
-My project facilitator: Lewis Dillon
-[Git Hub](https://github.com/LewisDillon)
-
-My family for all the support and love
