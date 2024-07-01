@@ -96,6 +96,10 @@ CSS validation: no errors were found  on the official (Jigsaw) validator
 
 ![CSS validator](documentation/cssvalidator.png)
 
+JS validation: no errors were found  on the official JS Hint validator
+
+![JS validator](documentation/jsvalidator.png)
+
 Acessibility: the site is friendly, easy to read and acessible- confirmed by running it through lighthouse in dev tools
 
 ![Lighthouse](documentation/lighthouse.png)
