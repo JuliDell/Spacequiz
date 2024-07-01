@@ -83,33 +83,36 @@ The manual testing was done on the deployed project at Github.
 
 - Links are working
 - Interactions are working
-- The forms will not be submitted if the fields have not been filled correctly
-- The pages are responsive
 
 <h2><font color="blue">Validator Testing</font></h2>
 
 HTML validation: no errors were found  on the official W3C validator
 
-![HTML Validator](documentation/232543.png)
+![Index.html Validator](documentation/indexvalidator.png)
+
+![Answer.html Validator](documentation/answervalidator.png)
 
 CSS validation: no errors were found  on the official (Jigsaw) validator
 
-![CSS validator](documentation/232728.png)
+![CSS validator](documentation/cssvalidator.png)
 
 Acessibility: the site is friendly, easy to read and acessible- confirmed by running it through lighthouse in dev tools
 
-![Lighthouse](documentation/231605.png)
+![Lighthouse](documentation/lighthouse.png)
 
 <h2><font color="blue">Bugs</font></h2>
 
-1. Solved bugs
+Solved bugs
 
-There was a duplicated id on index.html- it was corrected.
-The border attribute on the table element on answer.html was obsolete- it was corrected.
+1. There was a duplicated id on index.html- it was corrected.
 
-![Bugs](documentation/185711.png)
+![Bug1](documentation/bug1.png)
 
-2. Unsolved bugs
+2. The border attribute on the table element on answer.html was obsolete- it was corrected.
+
+![Bug2](documentation/bug2.png)
+
+Unsolved bugs
 
 No aditional bugs were detected.
 
