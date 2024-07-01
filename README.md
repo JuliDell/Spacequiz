@@ -63,21 +63,19 @@ This section allows the user to easily navigate and answer the quiz.
 
 The navigation use a space background, to make an immersive experience.
 
-![Nav Bar mMbiles](documentation/234435.png)
-
-![Nav Bar Desktop](documentation/234608.png)
+![Quiz Page](documentation/quizpage.png)
 
 2. Score page
 
-The home page includes a picture with a cover text inviting the user to become a volunteer and lists the actions Green Dublin is working on at the moment.
+The home page shows a summary of the user's performance.
 
-![Home page picture](documentation/80815.png)
+![Score Page](documentation/scorepage.png)
 
 3. Answer page
 
-Everytime the user signs up to become a volunter and joins a petition, he/she will be redirect to the response page and a thank you message will be showed.
+Everytime the user finishes the quiz there is an option to check the correct answers.
 
-![Response page](documentation/80B14.png)
+![Answer Page](documentation/answers.png)
 
 <h2><font color="blue">Manual Testing</font></h2>
 
