@@ -168,10 +168,10 @@ table tbody tr:hover {
     }
     
     .container {
-    margin-top: 80px;
+    margin-top: 60px;
     margin-bottom: 20px;
     width: 60%;
-    max-height: 60%;    
+    max-height: 50%;    
     display: flex;
     align-items: center;
     justify-content: center;
@@ -189,9 +189,15 @@ table tbody tr:hover {
             font-size: 90%; 
             }
         .container {
-        margin-top: 80px;
+        margin-top: 70px;
         margin-bottom: 10px;
         max-height: 100%;    
+        }
+        .format {
+            margin bottom: 20px;
+        }
+        .format2 {
+            margin bottom: 20px;
         }
         
         .btn-default {
