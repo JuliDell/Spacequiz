@@ -112,7 +112,7 @@ Solved bugs
 
 ![Bug2](documentation/bug2.png)
 
-Unsolved bugs
+<h2><font color="blue">Unsolved Bugs</font></h2>
 
 No aditional bugs were detected.
 
@@ -130,28 +130,12 @@ The page will be automatically refreshed with a detailed ribbon display to indic
 <h2><font color="blue">Credits</font></h2>
 <h3> Content</h3>
 
-- Information about the climate action plan 2024-2029- Climate 
-Neutral Dublin 2030 was taken from [Neutral Dublin 2030](https://www.dublincity.ie/residential/environment/dublin-city-councils-climate-change-action-plan/dublin-city-council-climate-action-plan-2024-2029)
-
-- Information about the mandatory EU recycling targets [EU recycling targets](https://www.epa.ie/news-releases/news-releases-2023/recycling-rates-slow-as-ireland-off-track-to-meet-key-eu-targets.php)
-
-- The social media links was taken from CI Love Running Project
-
-- The icons in the footer was taken from [Fontawesome](https://fontawesome.com/)
-
+- The questions and answers used in the quiz were taken from [Questions souce](https://www.kidsworldfun.com/quiz/space-quiz.php)
 
 <h3> Media</h3>
-The images were taken from Pexels and Istockphoto websites.
+The background imagee was taken from Pexels website.
 
-[Home up page img1](https://www.istockphoto.com/photo/aerial-top-view-green-forest-with-earth-green-planet-in-your-hands-save-earth-gm1406761842-458200738)
-
-[Home up page img2](https://www.pexels.com/photo/person-holding-clear-plastic-bottle-3480494/)
-
-[Home up page img3](https://media.istockphoto.com/id/1386672256/photo/reduce-co2-emission-concept-in-the-hand-for-environmental-global-warming-sustainable.jpg?b=1&s=612x612&w=0&k=20&c=SuTDvxnEdSIhsWK9w73n3fLLjFBvg1VvfDQCdNYidKw=)
-
-[Home up page img4](https://images.pexels.com/photos/12492301/pexels-photo-12492301.jpeg?auto=compress&cs=tinysrgb&w=600)
-
-[About page img1](https://www.pexels.com/photo/woman-in-blue-denim-jacket-holding-a-plastic-bottle-and-black-plastic-bag-5029852/)
+[Image](https://www.pexels.com/pt-br/foto/imagem-do-olho-da-tempestade-do-espaco-sideral-71116/)
 
 <h2><font color="blue">Technologies Used</font></h2>
 
