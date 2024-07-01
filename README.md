@@ -12,31 +12,38 @@ The main idea for the site was to inspire users, usually kids, to learn about th
 
 User Goals:
 
-1. Friendly Design: The website should have a colorful, welcoming design with space-themed visuals that attract and engage kids.
-2. Simplicity: Information and navigation should be kept simple and intuitive to ensure young users can easily find their way around.
-3. Clear Instructions: All instructions and quiz questions should be written in clear, age-appropriate language to ensure understanding.
-4. Interactive Learning: The quiz should be interactive, providing immediate feedback to encourage learning and keep kids motivated.
-5. Fun and Educational: The content should be both entertaining and informative, teaching kids about space in a way that feels like play.
+1. Friendly Design: the website should have a colorful, welcoming design with space-themed visuals that attract and engage kids.
+2. Simplicity: information and navigation should be kept simple and intuitive to ensure young users can easily find their way around.
+3. Clear Instructions: all instructions and quiz questions should be written in clear, age-appropriate language to ensure understanding.
+4. Interactive Learning: the quiz should be interactive to encourage learning and keep kids motivated.
+5. Fun and Educational: the content should be both entertaining and informative, teaching kids about space in a way that feels like play.
 
 Functional Requirements:
 1. Quiz page: multiple-choice questions about space with clear, concise questions and answer options.
-2. Result page: multiple-choice questions about space with clear, concise questions and answer options.
+2. Result page: summary of the user's performance and option to retake the quiz or go back to the answers page.
+3. Answer page: clear and concise answer for each question.
+4. Design elements: space-themed background to create an immersive experience.
+5. Bottons: Large and easy-to-read fonts.
+
+Non-Functional Requirements:
+1. Acessibility: the website should be accessible on various devices, including tablets and smartphones.
+2. Performance: the website should load quickly to maintain the attention of young users.
+3. Security: the website should be safe and secure, ensuring the privacy of its young users.
 
 <h2><font color="blue">Design</font></h2>
 
-To match with the name of the site "Green Dublin", it contains different shades of green:
+The website contains different shades of blue:
 
-[RGB color (138, 230, 138)](https://rgb.to/138,230,138)
+[RGB color (255, 255, 255, 0.8); ](https://rgb.to/255,255,255)
 
-[RGB color (0, 128, 0)](https://rgb.to/0,128,0)
+[RGB color (240, 240, 246)](https://rgb.to/240,240,246)
 
-[RGB color (213, 236, 205))](https://rgb.to/213,236,205)
+[HEX color #4e81ca](https://rgb.to/hex/4e81ca)
 
-[Hex color #4cb01a](https://rgb.to/hex/4cb01a)
+[Hex color #16327a](https://rgb.to/hex/16327a)
 
-[Hex color #92c193](https://rgb.to/hex/92c193)
+[Hex color #9ca9eb](https://rgb.to/hex/9ca9eb)
 
-[Hex color #45a049](https://rgb.to/hex/45a049)
 
 
 <h2><font color="blue">Features</font></h2>
