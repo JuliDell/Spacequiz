@@ -1,25 +1,26 @@
 <h1><font color="blue">Space Quiz</font></h1>
 
-![Home Page](documentation/233334.png)
+![Home Page](documentation/responsive.png)
 
-Welcome to Green Dublin, a site created because the planet and its ecosystems need people to defend them. It wants to encourage voolunteering and confront companies and projects that contribute to the global climate crisis and the incresing level of pollution on our planet.
+Are you ready for an out-of-this-world adventure? Come and join us on the SpaceQuiz website where you can explore the wonders of the universe, test your knowledge, and become a space expert! Let's play and learn together!
 
 <h2><font color="blue">UX</font></h2>
 
-The main idea for the site was to inspire action and make a positive impact, inviting the users to become a volunteer and engage in our mission to preserve the environment.
-
-Users of this website should be able to find the actions that are in course by Green Dublin non-profit organization, a link to sign up to become a volunteer and a easy way to join a petition. With pictures in all pages and informative texts, it should demonstrate the importance of being an activist and hope to incentive the collaboration to the campaigns and actions.
+The main idea for the site was to inspire users, usually kids, to learn about the space answering the quiz and having fun.
 
 <h3>User Stories</font></h2>
 
 User Goals:
 
-1. User can easily understand the purpose of the site and what are the campaigns or actions in course by Green Dublin.
-2. User can navigate easily through the site using the nav bar.
-3. User can open the website and all the devices.
-4. User can easily sign up to become a volunteer/member. As a member the user will start to receive updates from Green Dublin via e-mail.
-5. User can see pictures of others members in action in our campaigns.
-6. User can join a petition.
+1. Friendly Design: The website should have a colorful, welcoming design with space-themed visuals that attract and engage kids.
+2. Simplicity: Information and navigation should be kept simple and intuitive to ensure young users can easily find their way around.
+3. Clear Instructions: All instructions and quiz questions should be written in clear, age-appropriate language to ensure understanding.
+4. Interactive Learning: The quiz should be interactive, providing immediate feedback to encourage learning and keep kids motivated.
+5. Fun and Educational: The content should be both entertaining and informative, teaching kids about space in a way that feels like play.
+
+Functional Requirements:
+1. Quiz page: multiple-choice questions about space with clear, concise questions and answer options.
+2. Result page: multiple-choice questions about space with clear, concise questions and answer options.
 
 <h2><font color="blue">Design</font></h2>
 
