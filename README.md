@@ -38,7 +38,7 @@ The website contains different shades of blue:
 
 [RGB color (240, 240, 246)](https://rgb.to/240,240,246)
 
-[HEX color #4e81ca](https://rgb.to/hex/4e81ca)
+[Hex color #4e81ca](https://rgb.to/hex/4e81ca)
 
 [Hex color #16327a](https://rgb.to/hex/16327a)
 
@@ -104,7 +104,8 @@ Acessibility: the site is friendly, easy to read and acessible- confirmed by run
 
 1. Solved bugs
 
-In the documentation folder, the images name was written with spaces, capital letters and special characters.
+There was a duplicated id on index.html- it was corrected.
+The border attribute on the table element on answer.html was obsolete- it was corrected.
 
 ![Bugs](documentation/185711.png)
 
