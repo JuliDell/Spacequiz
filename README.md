@@ -88,13 +88,21 @@ The manual testing was done on the deployed project at Github.
 
 HTML validation: no errors were found  on the official W3C validator
 
+1. Index.html
+
 ![Index.html Validator](documentation/indexvalidator.png)
 
+2. Answer.html
+
 ![Answer.html Validator](documentation/answervalidator.png)
+
+3. Style.css
 
 CSS validation: no errors were found  on the official (Jigsaw) validator
 
 ![CSS validator](documentation/cssvalidator.png)
+
+4. Script.js
 
 JS validation: no errors were found  on the official JS Hint validator
 
